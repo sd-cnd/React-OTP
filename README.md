@@ -1,4 +1,4 @@
-# React OTP functionality with Vite
+# OTP functionality with React and Vite
 
 This project is a practice application that uses React and Vite to create a functional OTP feature.
 
